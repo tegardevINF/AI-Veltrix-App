@@ -1,0 +1,46 @@
+# 🔥 API KEYS & ENV (PALING PENTING!)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# 📦 Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🏗️ Build & Frontend
+dist/
+build/
+.next/
+out/
+frontend-claude-app/node_modules/
+frontend-claude-app/dist/
+
+# 🗄️ Database
+database.sqlite
+*.db
+*.sqlite
+
+# 📁 OS
+.DS_Store
+Thumbs.db
+
+# 🔧 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 📝 Logs & Misc
+*.log
+logs/
+groq_error.txt
+groq.error.txt
+
+# 💾 Local LLM (file gede, jangan diupload!)
+models/
+*.gguf
+*.bin
