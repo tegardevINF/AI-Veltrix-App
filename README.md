@@ -350,7 +350,7 @@ git push origin feature/nama-fitur
 
 ## 📄 License
 
-MIT © 2025 [Tegar](https://github.com/tegardevINF)
+MIT © 2026 [Tegar](https://github.com/tegardevINF)
 
 ---
 
