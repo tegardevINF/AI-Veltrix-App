@@ -55,8 +55,6 @@
 
 ## 🧠 Tentang Project
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
 **AI-Veltrix** adalah asisten AI *high availability* yang menggabungkan dua model secara cerdas:
 
 - **Groq GPT-OSS 120B** — 120 miliar parameter, reasoning setara GPT-4, 128K context window
@@ -72,7 +70,15 @@
 | Tidak ada internet | Local LLM tetap jalan |
 | Mahalnya API | Groq & Local LLM gratis |
 
-<br clear="right"/>
+---
+
+## 🖥️ UI Preview
+
+<div align="center">
+
+<img src="https://github.com/tegardevINF/AI-Veltrix-App/blob/main/assets/screenshot.png?raw=true" width="100%" alt="AI-Veltrix UI Preview" />
+
+</div>
 
 ---
 
@@ -785,13 +791,9 @@ MIT License © 2025 [Tegar](https://github.com/tegardevINF)
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
-&nbsp;&nbsp;
-<em>Built with TypeScript, Node.js, React & Groq API</em>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
+*Built with TypeScript, Node.js, React & Groq API*
 
-<br/><br/>
+<br/>
 
 *"Empowering Intelligence, Anywhere, Anytime."*
 
